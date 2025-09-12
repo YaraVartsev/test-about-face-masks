@@ -624,9 +624,6 @@ body {
   }
 
   .reasons {
-    background-color: #F7FDFB;
-    background-image: url(../images/reasons-img.jpg);
-    background-repeat: no-repeat;
     background-position: 13.5% top;
   }
 
@@ -755,13 +752,7 @@ body {
 @media (max-width: 768px) {
 
   .header {
-    background-color: #E5E5E5;
-    background-image: url(../images/header-bg-img.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: 118%;
-    height: 840px;
-    margin-bottom: 40px;
   }
 
   .header__img {
@@ -885,10 +876,6 @@ body {
 @media (max-width: 480px) {
 
   .header {
-    background-color: #E5E5E5;
-    background-image: url(../images/header-bg-img.jpg);
-    background-repeat: no-repeat;
-    background-position: right;
     background-size: 178%;
     height: 500px;
     margin-bottom: 10px;
